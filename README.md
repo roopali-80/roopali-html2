@@ -1,2 +1,2 @@
 # roopali-html2
-table
+table.html
